@@ -1,0 +1,72 @@
+
+"Group.1"       Subject Identity 
+"Group.2"       Activity Label
+"ActivityIndex" Activity Index
+"tBodyAcc-mean()-X"     Average of tBodyAcc-mean()-X for this Subject and Activity
+"tBodyAcc-mean()-Y"     Average of tBodyAcc-mean()-Y for this Subject and Activity
+"tBodyAcc-mean()-Z"     Average of tBodyAcc-mean()-Z for this Subject and Activity
+"tBodyAcc-std()-X"      Average of tBodyAcc-std()-X for this Subject and Activity
+"tBodyAcc-std()-Y"      Average of tBodyAcc-std()-Y for this Subject and Activity
+"tBodyAcc-std()-Z"      Average of tBodyAcc-std()-Z for this Subject and Activity
+"tGravityAcc-mean()-X"  Average of tGravityAcc-mean()-X for this Subject and Activity
+"tGravityAcc-mean()-Y"  Average of tGravityAcc-mean()-Y for this Subject and Activity
+"tGravityAcc-mean()-Z"  Average of tGravityAcc-mean()-Z for this Subject and Activity
+"tGravityAcc-std()-X"   Average of tGravityAcc-std()-X for this Subject and Activity
+"tGravityAcc-std()-Y"   Average of tGravityAcc-std()-Y for this Subject and Activity
+"tGravityAcc-std()-Z"   Average of tGravityAcc-std()-Z for this Subject and Activity
+"tBodyAccJerk-mean()-X" Average of tBodyAccJerk-mean()-X for this Subject and Activity
+"tBodyAccJerk-mean()-Y" Average of tBodyAccJerk-mean()-Y for this Subject and Activity
+"tBodyAccJerk-mean()-Z" Average of tBodyAccJerk-mean()-Z for this Subject and Activity
+"tBodyAccJerk-std()-X"  Average of tBodyAccJerk-std()-X for this Subject and Activity
+"tBodyAccJerk-std()-Y"  Average of tBodyAccJerk-std()-Y for this Subject and Activity
+"tBodyAccJerk-std()-Z"  Average of tBodyAccJerk-std()-Z for this Subject and Activity
+"tBodyGyro-mean()-X"    Average of tBodyGyro-mean()-X for this Subject and Activity
+"tBodyGyro-mean()-Y"    Average of tBodyGyro-mean()-Y for this Subject and Activity
+"tBodyGyro-mean()-Z"    Average of tBodyGyro-mean()-Z for this Subject and Activity
+"tBodyGyro-std()-X"     Average of tBodyGyro-std()-X for this Subject and Activity
+"tBodyGyro-std()-Y"     Average of tBodyGyro-std()-Y for this Subject and Activity
+"tBodyGyro-std()-Z"     Average of tBodyGyro-std()-Z for this Subject and Activity
+"tBodyGyroJerk-mean()-X"        Average of tBodyGyroJerk-mean()-X for this Subject and Activity
+"tBodyGyroJerk-mean()-Y"        Average of tBodyGyroJerk-mean()-Y for this Subject and Activity
+"tBodyGyroJerk-mean()-Z"        Average of tBodyGyroJerk-mean()-Z for this Subject and Activity
+"tBodyGyroJerk-std()-X" Average of tBodyGyroJerk-std()-X for this Subject and Activity
+"tBodyGyroJerk-std()-Y" Average of tBodyGyroJerk-std()-Y for this Subject and Activity
+"tBodyGyroJerk-std()-Z" Average of tBodyGyroJerk-std()-Z for this Subject and Activity
+"tBodyAccMag-mean()"    Average of tBodyAccMag-mean() for this Subject and Activity
+"tBodyAccMag-std()"     Average of tBodyAccMag-std() for this Subject and Activity
+"tGravityAccMag-mean()" Average of tGravityAccMag-mean() for this Subject and Activity
+"tGravityAccMag-std()"  Average of tGravityAccMag-std() for this Subject and Activity
+"tBodyAccJerkMag-mean()"        Average of tBodyAccJerkMag-mean() for this Subject and Activity
+"tBodyAccJerkMag-std()" Average of tBodyAccJerkMag-std() for this Subject and Activity
+"tBodyGyroMag-mean()"   Average of tBodyGyroMag-mean() for this Subject and Activity
+"tBodyGyroMag-std()"    Average of tBodyGyroMag-std() for this Subject and Activity
+"tBodyGyroJerkMag-mean()"       Average of tBodyGyroJerkMag-mean() for this Subject and Activity
+"tBodyGyroJerkMag-std()"        Average of tBodyGyroJerkMag-std() for this Subject and Activity
+"fBodyAcc-mean()-X"     Average of fBodyAcc-mean()-X for this Subject and Activity
+"fBodyAcc-mean()-Y"     Average of fBodyAcc-mean()-Y for this Subject and Activity
+"fBodyAcc-mean()-Z"     Average of fBodyAcc-mean()-Z for this Subject and Activity
+"fBodyAcc-std()-X"      Average of fBodyAcc-std()-X for this Subject and Activity
+"fBodyAcc-std()-Y"      Average of fBodyAcc-std()-Y for this Subject and Activity
+"fBodyAcc-std()-Z"      Average of fBodyAcc-std()-Z for this Subject and Activity
+"fBodyAccJerk-mean()-X" Average of fBodyAccJerk-mean()-X for this Subject and Activity
+"fBodyAccJerk-mean()-Y" Average of fBodyAccJerk-mean()-Y for this Subject and Activity
+"fBodyAccJerk-mean()-Z" Average of fBodyAccJerk-mean()-Z for this Subject and Activity
+"fBodyAccJerk-std()-X"  Average of fBodyAccJerk-std()-X for this Subject and Activity
+"fBodyAccJerk-std()-Y"  Average of fBodyAccJerk-std()-Y for this Subject and Activity
+"fBodyAccJerk-std()-Z"  Average of fBodyAccJerk-std()-Z for this Subject and Activity
+"fBodyGyro-mean()-X"    Average of fBodyGyro-mean()-X for this Subject and Activity
+"fBodyGyro-mean()-Y"    Average of fBodyGyro-mean()-Y for this Subject and Activity
+"fBodyGyro-mean()-Z"    Average of fBodyGyro-mean()-Z for this Subject and Activity
+"fBodyGyro-std()-X"     Average of fBodyGyro-std()-X for this Subject and Activity
+"fBodyGyro-std()-Y"     Average of fBodyGyro-std()-Y for this Subject and Activity
+"fBodyGyro-std()-Z"     Average of fBodyGyro-std()-Z for this Subject and Activity
+"fBodyAccMag-mean()"    Average of fBodyAccMag-mean() for this Subject and Activity
+"fBodyAccMag-std()"     Average of fBodyAccMag-std() for this Subject and Activity
+"fBodyBodyAccJerkMag-mean()"    Average of fBodyBodyAccJerkMag-mean() for this Subject and Activity
+"fBodyBodyAccJerkMag-std()"     Average of fBodyBodyAccJerkMag-std() for this Subject and Activity
+"fBodyBodyGyroMag-mean()"       Average of fBodyBodyGyroMag-mean() for this Subject and Activity
+"fBodyBodyGyroMag-std()"        Average of fBodyBodyGyroMag-std() for this Subject and Activity
+"fBodyBodyGyroJerkMag-mean()"   Average of fBodyBodyGyroJerkMag-mean() for this Subject and Activity
+"fBodyBodyGyroJerkMag-std()"    Average of fBodyBodyGyroJerkMag-std() for this Subject and Activity
+"Subject"       Subject Identity of original table
+"Activity"      Activity Label of original table
