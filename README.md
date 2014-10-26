@@ -3,11 +3,8 @@ tidydata
 1. Merges the training and the test sets to create one data set.
 
 Test data set was created by reading in "X_test.txt", "y_test.txt", "subject_test.txt" and cbind them together
-
 Training data set was created by reading in "X_train.txt", "y_train.txt", "subject_train.txt" and cbind them together
-
 rbind was called to merge the two data sets together. 
-
 
 2. Extracts only the measurements on the mean and standard deviation for each measurement. 
 
