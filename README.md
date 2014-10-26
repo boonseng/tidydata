@@ -6,7 +6,6 @@ Test data set was created by reading in "X_test.txt", "y_test.txt", "subject_tes
 Training data set was created by reading in "X_train.txt", "y_train.txt", "subject_train.txt" and cbind them together.<br>
 rbind was called to merge the two data sets together. <br>
 <br>
-
 <b>2. Extracts only the measurements on the mean and standard deviation for each measurement.</b><br> 
 Look through the features.txt to identify columns with mean and std dev and created a list of their indexes:<br>
 features = c(1:6, 41:46, 81:86, 121:126, 161:166, <br>
